@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\C#代码\2_20211019\_1\bin\Debug\_1.exe.config
+C:\Users\1\Desktop\C#代码\2_20211019\_1\obj\Debug\_1.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\C#代码\2_20211019\_1\bin\Debug\_1.exe
+C:\Users\1\Desktop\C#代码\2_20211019\_1\bin\Debug\_1.pdb
+C:\Users\1\Desktop\C#代码\2_20211019\_1\obj\Debug\_1.exe
+C:\Users\1\Desktop\C#代码\2_20211019\_1\obj\Debug\_1.pdb
